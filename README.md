@@ -10,23 +10,101 @@
 ### 1. Introduction to Deep Learning
 Get your first taste of deep learning by applying style transfer to your own images, and gain experience using development tools such as Anaconda and Jupyter notebooks.
 
+#### Lesson-1: Welcome to the Deep Learning Nanodegree Program
+
+#### Lesson-2: Nanodegree Career Sevices
+
+#### Lesson-3: Welcome to Udacity
+
+#### Lesson-4: Get Help with Your Account
+
+#### Lesson-5: Anaconda
+
+#### Lesson-6: Applying Deep Learning
+
+#### Lesson-7: Jupyter Notebooks
+
+#### Lesson-8: Matrix Math and NumPy Refresher
 
 ### 2. Neural Networks
 Learn neural networks basics, and build your first network with Python and NumPy. Use the modern deep learning framework PyTorch to build multi-layer neural networks, and analyze real data.
 
+#### Lesson-1: Introduction to Neural Networks
+
+#### Lesson-2: Implementing Gradient Descent
+
+#### Lesson-3: Training Neural Networks
+
+#### Lesson-4: GPU Workspaces Demo
+
+#### Lesson-5: Sentiment Analysis
+
+#### Lesson-6: Deep Learning with PyTorch
+
 ### 3. Convolutional Neural Networks
 Learn how to build convolutional networks and use them to classify images (faces, melanomas, etc.) based on patterns and objects that appear in them. Use these networks to learn data compression and image denoising.
+
+#### Lesson-1: Convolutional Neural Networks
+
+#### Lesson-2: Cloud Computing
+
+#### Lesson-3: Transfer Learning
+
+#### Lesson-4: Weight Initialization
+
+#### Lesson-5: Autoencoders
+
+#### Lesson-6: Style Transfer
+
+#### Lesson-7: Deep Learning for Cancer Detection
+
+#### Lesson-8: Jobs in Deep Learning
 
 ### 4. Recurrent Neural Networks
 Build your own recurrent networks and long short-term memory networks with PyTorch; perform sentiment analysis and use recurrent networks to generate new text from TV scripts.
 
+#### Lesson-1: Recurrent Neural Networks
+
+#### Lesson-2: Long Short-Term Memory Networks (LSTMs)
+
+#### Lesson-3: Implementation of RNN & LSTM
+
+#### Lesson-4: Hyperparameters
+
+#### Lesson-5: Embedding & Word2Vec
+
+#### Lesson-6: Sentiment Prediction RNN
+
+#### Lesson-7: Attention
+
 ### 5. Generative Adversarial Networks
 Learn to understand and implement a Deep Convolutional GAN (generative adversarial network) to generate realistic images, with Ian Goodfellow, the inventor of GANs, and Jun-Yan Zhu, the creator of CycleGANs.
+
+#### Lesson-1: Generative Adversarial Networks
+
+#### Lesson-2: Deep Convolutional GANs
+
+#### Lesson-3: Pix2Pix & CycleGAN
+
+#### Lesson-4: Implementing a CycleGAN
 
 ### 6. Deploying a Model
 Train and deploy your own PyTorch sentiment analysis model. Deployment gives you the ability to use a trained model to analyze new, user input. Build a model, deploy it, and create a gateway for accessing it from a website.
 
+#### Lesson-1: Introduction to Deployment
+
+#### Lesson-2: Building a Model using SageMaker
+
+#### Lesson-3: Deploying and Using a Model
+
+#### Lesson-4: Hyperparameter Tuning
+
+#### Lesson-5: Updating a Model
+
+
+
 ## Project
+Throughout this Nanodegree program, i'll have the opportunityto prove your skills by building the following projects-
 
 ### 1. Predicting Bike-Sharing Patterns
 Build and train neural networks from scratch to predict the number of bikeshare users on a given day.
@@ -57,3 +135,22 @@ Build a pair of multi-layer neural networks and make them compete against each o
 
 ### 7. Deploying a Sentiment Analysis Model
 Train and deploy your own PyTorch sentiment analysis model. You’ll build a model and create a gateway for accessing it from a website.
+
+## Extracurricular
+
+### 1. Additional Lessons
+
+#### Lesson-1: Evaluation Metrics
+
+#### Lesson-2: Regression
+
+#### Lesson-3: MiniFlow
+
+
+### 2. TensorFlow, Keras, Frameworks
+
+#### Lesson-1: Introduction to Keras
+
+#### Lesson-2: Keras CNNs
+
+#### Lesson-3: Introduction to TensorFlow
