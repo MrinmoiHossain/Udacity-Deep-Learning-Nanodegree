@@ -38,13 +38,22 @@ The data comes from the [UCI Machine Learning Database](https://archive.ics.uci.
 <img src="./Project/Project_1-Predicting_Bike_Sharing_Patterns/Project-1_Review.jpg">
 
 ### 2. Dog-Breed Classifier
+Design and train a convolutional neural network to analyze images of dogs and correctly identify their breeds. Use transfer learning and well-known architectures to improve this model—this is excellent preparation for more advanced applications.
+
+<img src="./Project/Project_2-Dog_Breed_Classifier/Project-2_Review.jpg">
 
 ### 3. Optimize Your GitHub Profile
+GitHub Profiles are a key piece of "evidence" to an employer that you'd be a good job candidate, because they can see the details of your work. Recruiters use GitHub as a way to find job candidates, and many Nanodegree alumni have received work opportunities from their activity on GitHub. In addition, using GitHub is a way for you to collaborate on projects with other programmers - this will show that you are able to work well with others on an engineering team on the job.
+
 
 ### 4. Generate TV Scripts
+Build a recurrent neural network on TensorFlow to process text. Use it to generate new episodes of your favorite TV show, based on old scripts.
+
 
 ### 5. Generate Faces
+Build a pair of multi-layer neural networks and make them compete against each other in order to generate new, realistic faces. Try training them on a set of celebrity faces, and see what new faces the computer comes out with!
 
 ### 6. Improve your LinkedIn
 
 ### 7. Deploying a Sentiment Analysis Model
+Train and deploy your own PyTorch sentiment analysis model. You’ll build a model and create a gateway for accessing it from a website.
