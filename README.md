@@ -12,6 +12,15 @@ Get your first taste of deep learning by applying style transfer to your own ima
 
 #### Lesson-1: Welcome to the Deep Learning Nanodegree Program
 
+| No | Lesson | Topic | Link/Source |
+|:---:|:---------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------:|
+| 1 | Welcome to the Deep Learning Nanodegree Program | Introduction | [GitHub]() |
+| 2 | Meet Your Instructors | Introduction | [GitHub]() |
+| 3 | Program Structure | Introduction | [GitHub]() |
+| 4 | Community Guidelines | Introduction | [GitHub]() |
+| 5 | Prerequisites | Introduction | [GitHub]() |
+| 6 | Getting Set Up | Introduction | [GitHub]() |
+
 #### Lesson-2: Nanodegree Career Sevices
 
 #### Lesson-3: Welcome to Udacity
