@@ -11,12 +11,19 @@
 
 ## Resources
 
+### AI, ML, DL
+* [AI, Deep Learning, and Machine Learning: A Primer](https://www.youtube.com/watch?v=ht6fLrar91U)
+
 ### Backpropagation 
 * [Medium - Andrej Karpathy](https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b#.vt3ax2kg9)
+* [Andrej Karpathy (a lecture from Stanford's CS231n course)](https://www.youtube.com/watch?v=59Hbtz7XgjM)
 
 ### LSTMs
 * [A Beginner's Guide to LSTMs and Recurrent Neural Networks](https://skymind.ai/wiki/lstm)
 * [Understanding LSTM Networks - Colah's Blog](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+
+### DL Architecture
+* [CycleGAN](https://github.com/junyanz/CycleGAN)
 
 ### GitHub
 * [Getting started with writing and formatting on GitHub](https://help.github.com/en/categories/writing-on-github)
@@ -66,10 +73,29 @@ Get your first taste of deep learning by applying style transfer to your own ima
 | 2 |                                                         Support                                                        |                                                                                                                                         Discuss about help center                                                                                                        |                         [Source](https://udacity.zendesk.com/hc/en-us/requests/new?ticket_form_id=110806)                          |
 
 #### Lesson-5: Anaconda
+| No |                                                        Lesson                                                         |                                                                                                                                  Topic                                                                                                                                   |                         Link/Source                          |
+|:--:|:---------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------:|
+| 1 |                                                       Instructor                                                       |                                                                                                                              Instructor-Mat Leonard, welcome about anaconda                                                                                              |                         Link/Source                          |
+| 2 |                                                      Introduction                                                      |                                                                                                                                  Conda or Anaconda installation step                                                                                                     |                         [Source](https://anaconda.org/)                           |
+| 3 |                                                    What is Anaconda?                                                   |                                                                                                                         Anaconda's description, managing packages and environments                                                                                       |                         Link/Source                          |
+| 4 |                                                   Installing Anaconda                                                  |                                                                                                                                        Installing Anaconda                                                                                                               |                         [Source](https://www.anaconda.com/download/)                           |
+| 5 |                                                    Managing packages                                                   |                                                                                                                                     Managing packages system                                                                                                             |                         Link/Source                          |
+| 6 |                                                  Managing environments                                                 |                                                                                                                          Managing and the using of the environments                                                                                                      |                         Link/Source                          |
+| 7 |                                                 More environment actions                                               |                                                                                                                      Saving, loading, listing and removing environments                                                                                                  |                         Link/Source                          |
+| 8 |                                                     Best practices                                                     |                                                                                                                                  Using and sharing environments                                                                                                          |                         Link/Source                          |
+| 9 |                                               On Python versions at Udacity                                            |                                                                                                                             Why Python version-3 is used this course                                                                                                     |                         Link/Source                          |
 
 #### Lesson-6: Applying Deep Learning
+| No |                                                        Lesson                                                         |                                                                                                                                  Topic                                                                                                                                   |                         Link/Source                          |
+|:--:|:---------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------:|
+| 1 |                                                      Introduction                                                      |                                                                                                                                         Overview of the lesson                                                                                                           |                         Link/Source                          |
+| 2 |                                                     Style Transfer                                                     |                                                                                                                                   Overview about the style transfer                                                                                                      |                         Link/Source                          |
+| 3 |                                                       DeepTraffic                                                      |                                                                                                                              Introduction the deepTrafic (application DL)                                                                                                |                         Link/Source                          |
+| 4 |                                                       Flappy Bird                                                      |                                                                                                                                   DL application in Flappy Bird                                                                                                          |                         Link/Source                          |
+| 5 |                                                      Books to Read                                                     |                                                                                                                                    Some suggested books for DL                                                                                                           |                         Link/Source                          |
 
 #### Lesson-7: Jupyter Notebooks
+
 
 #### Lesson-8: Matrix Math and NumPy Refresher
 
@@ -196,9 +222,9 @@ GitHub Profiles are a key piece of "evidence" to an employer that you'd be a goo
 ### 4. Generate TV Scripts
 Build a recurrent neural network on TensorFlow to process text. Use it to generate new episodes of your favorite TV show, based on old scripts.
 
-<img src="./Project/Project_2-Dog_Breed_Classifier/Project-3_Review-1.jpg">
-<img src="./Project/Project_2-Dog_Breed_Classifier/Project-3_Review-2.jpg">
-<img src="./Project/Project_2-Dog_Breed_Classifier/Project-3_Review-3.jpg">
+<img src="./Project/Project_3-TV_Script_Generation/Project-3_Review-1.jpg">
+<img src="./Project/Project_3-TV_Script_Generation/Project-3_Review-2.jpg">
+<img src="./Project/Project_3-TV_Script_Generation/Project-3_Review-3.jpg">
 
 ### 5. Generate Faces
 Build a pair of multi-layer neural networks and make them compete against each other in order to generate new, realistic faces. Try training them on a set of celebrity faces, and see what new faces the computer comes out with!
