@@ -5,6 +5,23 @@
     <p>Become an expert in neural networks, and learn to implement them using the deep learning framework PyTorch. Build convolutional networks for image recognition, recurrent networks for sequence generation, generative adversarial networks for image generation, and learn how to deploy models accessible from a website. - <a href="https://www.udacity.com/course/deep-learning-nanodegree--nd101">Source</a></p>
 </div>
 
+## Books
+* **Grokking Deep Learning**: https://www.manning.com/books/grokking-deep-learning
+* **Grokking Deep Learning Book's Excercise**: https://github.com/iamtrask/Grokking-Deep-Learning
+
+## Resources
+
+### Backpropagation 
+* [Medium - Andrej Karpathy](https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b#.vt3ax2kg9)
+
+### LSTMs
+* [A Beginner's Guide to LSTMs and Recurrent Neural Networks](https://skymind.ai/wiki/lstm)
+* [Understanding LSTM Networks - Colah's Blog](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+
+### GitHub
+* [Getting started with writing and formatting on GitHub](https://help.github.com/en/categories/writing-on-github)
+* [Basic writing and formatting syntax](https://help.github.com/en/articles/basic-writing-and-formatting-syntax)
+
 ## Core Curriculum
 
 ### 1. Introduction to Deep Learning
@@ -179,6 +196,9 @@ GitHub Profiles are a key piece of "evidence" to an employer that you'd be a goo
 ### 4. Generate TV Scripts
 Build a recurrent neural network on TensorFlow to process text. Use it to generate new episodes of your favorite TV show, based on old scripts.
 
+<img src="./Project/Project_2-Dog_Breed_Classifier/Project-3_Review-1.jpg">
+<img src="./Project/Project_2-Dog_Breed_Classifier/Project-3_Review-2.jpg">
+<img src="./Project/Project_2-Dog_Breed_Classifier/Project-3_Review-3.jpg">
 
 ### 5. Generate Faces
 Build a pair of multi-layer neural networks and make them compete against each other in order to generate new, realistic faces. Try training them on a set of celebrity faces, and see what new faces the computer comes out with!
