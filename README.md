@@ -8,6 +8,8 @@
 ## Books
 * **Grokking Deep Learning**: https://www.manning.com/books/grokking-deep-learning
 * **Grokking Deep Learning Book's Excercise**: https://github.com/iamtrask/Grokking-Deep-Learning
+* **Neural Networks And Deep Learning** by Michael Nielsen
+* **The Deep Learning Textbook** from Ian Goodfellow, Yoshua Bengio, and Aaron Courville
 
 ## Resources
 
@@ -18,12 +20,19 @@
 * [Medium - Andrej Karpathy](https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b#.vt3ax2kg9)
 * [Andrej Karpathy (a lecture from Stanford's CS231n course)](https://www.youtube.com/watch?v=59Hbtz7XgjM)
 
+### Style Transfer
+* [Fast style transfer](https://github.com/lengstrom/fast-style-transfer)
+
 ### LSTMs
 * [A Beginner's Guide to LSTMs and Recurrent Neural Networks](https://skymind.ai/wiki/lstm)
 * [Understanding LSTM Networks - Colah's Blog](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 
 ### DL Architecture
 * [CycleGAN](https://github.com/junyanz/CycleGAN)
+
+### Reinforcement learning
+* [DeepTraffic](https://selfdrivingcars.mit.edu/deeptraffic/)
+* [Flappy Bird](https://github.com/yenchenlin/DeepLearningFlappyBird)
 
 ### GitHub
 * [Getting started with writing and formatting on GitHub](https://help.github.com/en/categories/writing-on-github)
