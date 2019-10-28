@@ -34,6 +34,9 @@
 * [DeepTraffic](https://selfdrivingcars.mit.edu/deeptraffic/)
 * [Flappy Bird](https://github.com/yenchenlin/DeepLearningFlappyBird)
 
+### Attention
+* [Attention is all you need - Lukasz Kaiser - Youtube](https://www.youtube.com/watch?v=rBCqOTEfxvg)
+
 ### GitHub
 * [Getting started with writing and formatting on GitHub](https://help.github.com/en/categories/writing-on-github)
 * [Basic writing and formatting syntax](https://help.github.com/en/articles/basic-writing-and-formatting-syntax)
@@ -184,8 +187,17 @@ Build your own recurrent networks and long short-term memory networks with PyTor
 | 6 |                                                  Attention Overview                                                    |                                                                                                                                    Example and question about attention                                                                                                  |                       Source/GitHub                          |
 | 7 |                                                  Attention Encoder                                                     |                                                                                                                        Behind the scenario of encoder algorithms in attention                                                                                            |                       Source/GitHub                          |
 | 8 |                                                  Attention Decoder                                                     |                                                                                                                         Backbone of decoder and the Attention decoder phase                                                                                              |                       Source/GitHub                          |
-| 9 |                                             Attention Encoder & Decoder                                                |                                                                                                                                Quiz about encoder and decoder                                                                                                          |                       Source/GitHub                          |
-|10 |                                             Bahdanau and Luong Attention                                               |                                                                                                                                                                                                                                                                          |                       Source/GitHub                          |
+| 9 |                                             Attention Encoder & Decoder                                                |                                                                                                                                Quiz about encoder and decoder                                                                                                            |                       Source/GitHub                          |
+|10 |                                             Bahdanau and Luong Attention                                               |                                                                                                              Bahdanu/Additive Attention and Luong/Multiplicative Attention Model Introduction                                                                          |                       Source/GitHub                          |
+|11 |                                               Multiplicative Attention                                                 |                                                                                                                  Details architecture of Multiplicative Attention                                                                                                        |                       Source/GitHub                          |
+|12 |                                                  Additive Attention                                                    |                                                                                                              3-Concat attention and details architecture of Additive Attention                                                                                         |                       Source/GitHub                          |
+|13 |                                         Additive and Multiplicative Attention                                          |                                                                                                                  Quiz: Additive and Multiplicative Attention                                                                                                             |                       Source/GitHub                          |
+|14 |                                             Computer Vision Applications                                               |                                                                                                                  Example of computer vision applications with attention                                                                                                  |                       Source/GitHub                          |
+|15 |                                               Other Attention Methods                                                  |                                                                                                             The transformer models and indside of the model (encoder and decoder part)                                                                                |                       Source/GitHub                          |
+|16 |                                          The Transformer and Self-Attention                                            |                                                                                                                   Full details of the Transformer and Self-Attention architecture                                                                                        |                       Source/GitHub                          |
+|17 |                                             Notebook: Attention Basics                                                 |                                                                                                         Attention Basic function-Scoring, Annotations Matrix, Softmax, Attention Context Vector                                                                   |                         [GitHub](https://github.com/MrinmoiHossain/Udacity-Deep-Learning-Nanodegree/tree/master/4.Recurrent_Neural_Networks/Lesson_7-Attention/17.Notebook-Attention_Basics)                           |
+|18 |                                            [SOLUTION]: Attention Basics                                                |                                                                                                         Attention Basic function-Scoring, Annotations Matrix, Softmax, Attention Context Vector                                                                   |                         [GitHub](https://github.com/MrinmoiHossain/Udacity-Deep-Learning-Nanodegree/tree/master/4.Recurrent_Neural_Networks/Lesson_7-Attention/18.Solution-Attention_Basics)                           |
+|19 |                                                        Outro                                                           |                                                                                                              Ending message and remainder the most important information in that data                                                                                  |                       Source/GitHub                          |
 
 
 ### 5. Generative Adversarial Networks
@@ -248,7 +260,7 @@ Build a pair of multi-layer neural networks and make them compete against each o
 ### 6. Improve your LinkedIn
 
 ### 7. Deploying a Sentiment Analysis Model
-Train and deploy your own PyTorch sentiment analysis model. You’ll build a model and create a gateway for accessing it from a website.
+Train and deploy your own PyTorch sentiment analysis model. You'll build a model and create a gateway for accessing it from a website.
 
 ## Extracurricular
 
@@ -268,3 +280,10 @@ Train and deploy your own PyTorch sentiment analysis model. You’ll build a model
 #### Lesson-2: Keras CNNs
 
 #### Lesson-3: Introduction to TensorFlow
+
+## 30 Days of Udacity Challenge
+The premise of this challenge is to build a habit of practicing new skills by making a public commitment of practicing the topic of your program every day for 30 days. 
+* [Me @ Honorable Mentions Wall - "Md. Mokit H."](https://sites.google.com/udacity.com/udacity-community-guide/community/30daysofudacity/honorable-mentions-wall)
+
+<img src="./30_Days_of_Udacity.jpg">
+<img src="./30-day-Badges.png">
