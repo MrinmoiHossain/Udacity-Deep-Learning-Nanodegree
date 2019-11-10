@@ -40,6 +40,9 @@
 ### GAN
 * [iGAN - GitHub](https://github.com/junyanz/iGAN)
 * [Attacking Machine Learning with Adversarial Examples](https://openai.com/blog/adversarial-example-research/)
+* [Image-to-Image Demo](https://affinelayer.com/pixsrv/)
+* [Pix2Pix and CycleGAN Github by Jun-Yan](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)
+* [Implementation of StarGAN](https://github.com/yunjey/StarGAN)
 
 ### Batch Normalization
 * [PyTorch BatchNorm2d documentation](https://pytorch.org/docs/stable/nn.html#batchnorm2d)
@@ -47,6 +50,9 @@
 ### GitHub
 * [Getting started with writing and formatting on GitHub](https://help.github.com/en/categories/writing-on-github)
 * [Basic writing and formatting syntax](https://help.github.com/en/articles/basic-writing-and-formatting-syntax)
+
+### Others
+* [ MIT CSAIL](https://www.csail.mit.edu/)
 
 ## Core Curriculum
 
@@ -257,6 +263,18 @@ Learn to understand and implement a Deep Convolutional GAN (generative adversari
 
 
 #### Lesson-3: Pix2Pix & CycleGAN
+| No |                                                        Lesson                                                         |                                                                                                                                  Topic                                                                                                                                   |                         Link/Source                          |
+|:--:|:---------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------:|
+| 1 |                                                 Introducing Jun-Yan Zhu                                                |                                                                                                             Introduction of Jun-Yan Zhu and his background, Intorduction CycleGAN, Pix2Pix                                                                            |                       Source/GitHub                          |
+| 2 |                                               Image to Image Translation                                               |                                                                                                                     Image to image translation with example                                                                                                              |                       Source/GitHub                          |
+| 3 |                                                 Designing Loss Functions                                               |                                                                                                                  Loss are calculated using Euclidean distance                                                                                                            |                       Source/GitHub                          |
+| 4 |                                                      GANs, a Recap                                                     |                                                                                                              Full review of Generator, Descrimenator of GAN network                                                                                                    |                         [GitHub](https://github.com/MrinmoiHossain/Udacity-Deep-Learning-Nanodegree/tree/master/5.Generative_Adversarial_Networks/Lesson_3-Pix2Pix_and_CycleGAN/4.GANs_A_Recap)                           |
+| 5 |                                                    Pix2Pix Generator                                                   |                                                                                                                      What changes of Pix2Pix Generator                                                                                                                   |                       Source/GitHub                          |
+| 6 |                                                  Pix2Pix Discriminator                                                 |                                                                                                                    What changes of Pix2Pix Discriminator                                                                                                                 |                       Source/GitHub                          |
+| 7 |                                                CycleGANs & Unpaired Data                                               |                                                                                                               Unpaired data, Mappings, Inverse mappings                                                                                                                 |                       Source/GitHub                          |
+| 8 |                                                  Cycle Consistency Loss                                                |                                                                                                               Calculate the Cycle Consistency Loss                                                                                                                      |                       Source/GitHub                          |
+| 9 |                                                   Why Does This Work?                                                  |                                                                                                                   Weaknesses of CycleGAN                                                                                                                                 |                       Source/GitHub                          |
+|10 |                                                     Beyond CycleGANs                                                   |                                                                                                             Augmented CycleGAN, Paired CycleGAN, Cross-domain models, StarGAN                                                                                         |                       Source/GitHub                          |
 
 #### Lesson-4: Implementing a CycleGAN
 
