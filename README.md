@@ -366,6 +366,11 @@ Build a recurrent neural network on TensorFlow to process text. Use it to genera
 ### 5. Generate Faces
 Build a pair of multi-layer neural networks and make them compete against each other in order to generate new, realistic faces. Try training them on a set of celebrity faces, and see what new faces the computer comes out with!
 
+<img src="./Project/Project_4-Generate_Faces/Project-4_Review-1.jpg">
+<img src="./Project/Project_4-Generate_Faces/Project-4_Review-2.jpg">
+<img src="./Project/Project_4-Generate_Faces/Project-4_Review-3.jpg">
+
+
 ### 6. Improve your LinkedIn
 
 ### 7. Deploying a Sentiment Analysis Model
