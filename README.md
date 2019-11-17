@@ -52,6 +52,12 @@
 ### Batch Normalization
 * [PyTorch BatchNorm2d documentation](https://pytorch.org/docs/stable/nn.html#batchnorm2d)
 
+### Machine Learning Workflow
+* [AWS - Machine Learning Workflow](https://docs.aws.amazon.com/sagemaker/latest/dg/how-it-works-mlconcepts.html)
+* [GCP - Machine Learning Workflow](https://cloud.google.com/ml-engine/docs/ml-solutions-overview)
+* [Azure - Machine Learning Workflow](https://docs.microsoft.com/en-us/azure/machine-learning/service/overview-what-is-azure-ml)
+* [Open Neural Network Exchange](https://onnx.ai/)
+
 ### GitHub
 * [Getting started with writing and formatting on GitHub](https://help.github.com/en/categories/writing-on-github)
 * [Basic writing and formatting syntax](https://help.github.com/en/articles/basic-writing-and-formatting-syntax)
@@ -338,6 +344,32 @@ Learn to understand and implement a Deep Convolutional GAN (generative adversari
 Train and deploy your own PyTorch sentiment analysis model. Deployment gives you the ability to use a trained model to analyze new, user input. Build a model, deploy it, and create a gateway for accessing it from a website.
 
 #### Lesson-1: Introduction to Deployment
+| No |                                                        Lesson                                                         |                                                                                                                                  Topic                                                                                                                                   |                         Link/Source                          |
+|:--:|:---------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------:|
+| 1 |                                                        Welcome!                                                        |                                                                                                             
+Instructor introduction, deployment lesson introduction                                                                                                   |                       Source/GitHub                          |
+| 2 |                                                     What's Ahead?                                                      |                                                                                                              Behind the scenario of deployment, reason of using and it's characteristcs                                                                                |                       Source/GitHub                          |
+| 3 |                                                  Problem Introduction                                                  |                                                                                                             
+  How to approach a real life problem using machine learning                                                                                              |                       Source/GitHub                          |
+| 4 |                                               Machine Learning Workflow                                                |                                                                                                                  Structure of machine learning workflow with example                                                                                                     |                       Source/GitHub                          |
+| 5 |                                              Machine Learning Workflow                                                 |                                                                                                             
+          Machine learning structure quiz                                                                                                                 |                       Source/GitHub                          |
+| 6 |                                    What is Cloud Computing & Why Would We Use It?                                      |                                                                                                              Cloud computing defination, benfits, risks and now mostly why it is used                                                                                  |                       Source/GitHub                          |
+| 7 |                                                Why Cloud Computing?                                                    |                                                                                                             
+              Cloud computing quiz                                                                                                                        |                       Source/GitHub                          |
+| 8 |                                           Machine Learning Applications                                                |                                                                                                                   Machine Learning Applications, Example of ML in the workplace                                                                                          |                       Source/GitHub                          |
+| 9 |                                           Machine Learning Applications                                                |                                                                                                             
+   Machine Learning Applications, Example of ML in the workplace                                                                                          |                       Source/GitHub                          |
+|10 |                                                Paths to Deployment                                                     |                                                                                                                     Path of deployment, DevOps in Machine Learning                                                                                                      |                       Source/GitHub                          |
+|11 |                                                Paths to Deployment                                                     |                                                                                                             
+             Paths to Deployment quiz                                                                                                                     |                       Source/GitHub                          |
+|12 |                                              Production Environments                                                   |                                                                                                                  Production environments of ML and how it works                                                                                                          |                       Source/GitHub                          |
+|13 |                                              Production Environments                                                   |                                                                                                             
+           Production Environments quiz                                                                                                                   |                       Source/GitHub                          |
+|14 |                                               Endpoints & REST APIs                                                    |                                                                                                                 Endpoint and REST API description, HTTP communication and Method                                                                                         |                       Source/GitHub                          |
+|15 |                                               Endpoints & REST APIs                                                    |                                                                                                             
+            Endpoints & REST APIs quiz                                                                                                                    |                       Source/GitHub                          |
+
 
 #### Lesson-2: Building a Model using SageMaker
 
