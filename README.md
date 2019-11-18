@@ -369,9 +369,32 @@ Instructor introduction, deployment lesson introduction                         
 |14 |                                               Endpoints & REST APIs                                                    |                                                                                                                 Endpoint and REST API description, HTTP communication and Method                                                                                         |                       Source/GitHub                          |
 |15 |                                               Endpoints & REST APIs                                                    |                                                                                                             
             Endpoints & REST APIs quiz                                                                                                                    |                       Source/GitHub                          |
+|16 |                                                    Containers                                                          |                                                                                                                       Container definition and structure                                                                                                                 |                       Source/GitHub                          |
+|17 |                                                    Containers                                                          |                                                                                                             
+              Container Quiz                                                                                                                              |                       Source/GitHub                          |
+|18 |                                        Containers - Straight From the Experts                                          |                                                                                         Container details from an expart developer - Jesse Swidler, a senior software engineer at Udacity                                                                                |                       Source/GitHub                          |
+|19 |                                       Characteristics of Modeling & Deployment                                         |                                                                                                             
+    Description of characteristics of Modeling & Deployment                                                                                               |                       Source/GitHub                          |
+|20 |                                       Characteristics of Modeling & Deployment                                         |                                                                                                             
+       Characteristics of Modeling & Deployment quiz                                                                                                      |                       Source/GitHub                          |
+|21 |                                             Comparing Cloud Providers                                                  |                                                                                                             
+       Characteristics of Modeling & Deployment quiz                                                                                                      |                       Source/GitHub                          |
+|22 |                                             Comparing Cloud Providers                                                  |                                                                                                             
+             Comparing Cloud Providers quiz                                                                                                               |                       Source/GitHub                          |
+|23 |                                                Closing Statements                                                      |                                                                                                             
+                 Learn about deployment                                                                                                                   |                       Source/GitHub                          |
+|24 |                                                     Summary                                                            |                                                                                                             
+                 Summary of the lesson                                                                                                                    |                       Source/GitHub                          |
+|25 |                                        [Optional] Cloud Computing Defined                                              |                                                                                                             
+        Details about cloud computing defined                                                                                                             |                       Source/GitHub                          |
+|26 |                                       [Optional] Cloud Computing Explained                                             |                                                                                                             
+        Details about cloud computing defined                                                                                                             |                       Source/GitHub                          |
+
 
 
 #### Lesson-2: Building a Model using SageMaker
+
+
 
 #### Lesson-3: Deploying and Using a Model
 
