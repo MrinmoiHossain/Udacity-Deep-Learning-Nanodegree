@@ -60,10 +60,17 @@
 
 ### Cloud ML
 * [XGBoost Documentation](https://xgboost.readthedocs.io/en/latest/)
+* [Machine Learning Challenge Winning Solutions](https://github.com/dmlc/xgboost/tree/master/demo#machine-learning-challenge-winning-solutions)
 
 ### GitHub
 * [Getting started with writing and formatting on GitHub](https://help.github.com/en/categories/writing-on-github)
 * [Basic writing and formatting syntax](https://help.github.com/en/articles/basic-writing-and-formatting-syntax)
+
+### Hackathons
+* [Discover Upcoming Hackathons](https://www.hackathon.io/events)
+* [Hackathons around the world](https://hackevents.co/)
+* [DevPost](http://devpost.com/)
+* [Major League Hackathons](https://mlh.io/)
 
 ### Others
 * [MIT CSAIL](https://www.csail.mit.edu/)
@@ -388,6 +395,10 @@ Train and deploy your own PyTorch sentiment analysis model. Deployment gives you
 | 5 |                                           Cloning the Deployment Notebooks                                             |                                                                                                                    Starting instance and clone the project file                                                                                                          |                         [Source](https://github.com/udacity/sagemaker-deployment)                           |
 | 6 |                                                Is Everything Set Up?                                                   |                                                                                                                 Setting up the AWS account and SageMaker instance                                                                                                        |                       Source/GitHub                          |
 | 7 |                                    Boston Housing Example - Getting the Data Ready                                     |                                                                                                               Working with Boston Housing Example and Getting the Data Ready                                                                                            |                       Source/GitHub                          |
+| 8 |                                      Boston Housing Example - Training the Model                                       |                                                                                                                       Training XGBoost the model                                                                                                                         |                       Source/GitHub                          |
+| 9 |                                      Boston Housing Example - Testing the Model                                        |                                                                                                                  Test the model and clean up the data directory                                                                                                          |                       Source/GitHub                          |
+|10 |                                       Mini-Project: Building Your First Model                                          |                                                                                                                Introduction the IMDB sentiment analysis mini project                                                                                                     |                         [Source](https://github.com/udacity/sagemaker-deployment/blob/master/Mini-Projects/IMDB%20Sentiment%20Analysis%20-%20XGBoost%20(Batch%20Transform).ipynb)                           |
+|11 |                                              Mini-Project: Solution                                                    |                                                                                                                       Solution of the mini project                                                                                                                       |                       Source/GitHub                          |
 
 
 
@@ -439,6 +450,10 @@ Build a pair of multi-layer neural networks and make them compete against each o
 
 ### 7. Deploying a Sentiment Analysis Model
 Train and deploy your own PyTorch sentiment analysis model. You'll build a model and create a gateway for accessing it from a website.
+
+<img src="./Project/Project_5-Deploying_a_Sentiment_Analysis_Model/Project-5_Review-1.jpg">
+<img src="./Project/Project_5-Deploying_a_Sentiment_Analysis_Model/Project-5_Review-2.jpg">
+<img src="./Project/Project_5-Deploying_a_Sentiment_Analysis_Model/Project-5_Review-3.jpg">
 
 ## Extracurricular
 
