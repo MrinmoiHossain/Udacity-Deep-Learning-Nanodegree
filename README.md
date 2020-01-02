@@ -21,6 +21,9 @@
 * [Medium - Andrej Karpathy](https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b#.vt3ax2kg9)
 * [Andrej Karpathy (a lecture from Stanford's CS231n course)](https://www.youtube.com/watch?v=59Hbtz7XgjM)
 
+### Optimizers
+* [An overview of gradient descent optimization algorithms](https://ruder.io/optimizing-gradient-descent/index.html)
+
 ### Style Transfer
 * [Fast style transfer](https://github.com/lengstrom/fast-style-transfer)
 
@@ -71,6 +74,17 @@
 * [Hackathons around the world](https://hackevents.co/)
 * [DevPost](http://devpost.com/)
 * [Major League Hackathons](https://mlh.io/)
+
+### Neural Network Frameworks
+* [Keras](https://keras.io/)
+* [TensorFlow](https://www.tensorflow.org/)
+* [Caffe](http://caffe.berkeleyvision.org/)
+* [Theano](http://deeplearning.net/software/theano/)
+* [Scikit-learn](https://scikit-learn.org/stable/)
+
+### Keras 
+* [Keras Optimizers](https://keras.io/optimizers/)
+* []()
 
 ### Others
 * [MIT CSAIL](https://www.csail.mit.edu/)
@@ -526,6 +540,18 @@ Train and deploy your own PyTorch sentiment analysis model. You'll build a model
 ### 2. TensorFlow, Keras, Frameworks
 
 #### Lesson-1: Introduction to Keras
+| No |                                                        Lesson                                                         |                                                                                                                                  Topic                                                                                                                                   |                         Link/Source                          |
+|:--:|:---------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------:|
+| 1 |                                                         Intro                                                          |                                                                                                                           Introductiona and lesson structure of keras                                                                                                    |                       Source/GitHub                          |
+| 2 |                                                         Keras                                                          |                                                                                                                           Keras usefull method details with excercise                                                                                                    |                         [GitHub](https://github.com/MrinmoiHossain/Udacity-Deep-Learning-Nanodegree/tree/master/8.2.TensorFlow_Keras_Frameworks/Lesson_1-Introduction_to_Keras/2.Keras)                           |
+| 3 |                                         Pre-Lab: Student Admissions in Keras                                           |                                                                                                                           Excercise implementation details describe                                                                                                      |                       Source/GitHub                          |
+| 4 |                                           Lab: Student Admissions in Keras                                             |                                                                                                                           Excercise implementation details describe                                                                                                      |                         [GitHub](https://github.com/MrinmoiHossain/Udacity-Deep-Learning-Nanodegree/tree/master/8.2.TensorFlow_Keras_Frameworks/Lesson_1-Introduction_to_Keras/4.Lab-Student_Admissions_in_Keras)                           |
+| 5 |                                                Optimizers in Keras                                                     |                                                                                                                         Different types of keras optimizers details                                                                                                      |                       Source/GitHub                          |
+| 6 |                                                Mini Project Intro                                                      |                                                                                                                            Hints the next coming mini project                                                                                                            |                       Source/GitHub                          |
+| 7 |                                           Pre-Lab: IMDB Data in Keras                                                  |                                                                                                                                    Solution Tips                                                                                                                         |                         [GitHub](https://github.com/udacity/deep-learning/blob/master/IMDB-keras/IMDB_In_Keras_Solutions.ipynb)                           |
+| 8 |                                           Lab: Student Admissions in Keras                                             |                                                                                                                           Excercise implementation details describe                                                                                                      |                         [GitHub](https://github.com/MrinmoiHossain/Udacity-Deep-Learning-Nanodegree/blob/master/8.2.TensorFlow_Keras_Frameworks/Lesson_1-Introduction_to_Keras/8.Lab-IMDB_Data_in_Keras/IMDB_In_Keras.ipynb)                           |
+
+
 
 #### Lesson-2: Keras CNNs
 
